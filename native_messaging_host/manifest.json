@@ -1,0 +1,9 @@
+{
+  "name": "com.example.youtubeadblocker",
+  "description": "YouTube Ad Blocker",
+  "path": "host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://YOUR_EXTENSION_ID/"
+  ]
+}
