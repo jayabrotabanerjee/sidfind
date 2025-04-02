@@ -1,7 +1,10 @@
 # sidfind
 
-A simple session ID retriever.
+A simple Chrome extension for retrieving session IDs from web pages.
 
+## Project Structure
+
+```
 sidfind/
 ├── icons/
 │   ├── icon16.png
@@ -11,6 +14,7 @@ sidfind/
 ├── background.js
 ├── content.js
 └── native-messaging-host/
-├── host.py
-├── manifest.json
-└── requirements.txt
+    ├── host.py
+    ├── manifest.json
+    └── requirements.txt
+```
